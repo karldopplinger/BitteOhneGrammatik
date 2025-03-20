@@ -30,4 +30,7 @@ public class Token
         BRACKET_END
     }
 
+    // Mottl ist ein cooler Typ
+
+
 }

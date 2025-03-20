@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Raphael\\.nuget\\packages\\": {}
+    "C:\\Users\\karld\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raphael\\Desktop\\Schule\\5. Klasse\\POS_C#\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
+      "projectUniqueName": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
       "projectName": "RoboterInterpreterPattern",
-      "projectPath": "C:\\Users\\Raphael\\Desktop\\Schule\\5. Klasse\\POS_C#\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
-      "packagesPath": "C:\\Users\\Raphael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raphael\\Desktop\\Schule\\5. Klasse\\POS_C#\\RoboterInterpreterPattern\\obj\\",
+      "projectPath": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
+      "packagesPath": "C:\\Users\\karld\\.nuget\\packages\\",
+      "outputPath": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Raphael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karld\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -42,7 +42,9 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "default"
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,19 +64,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
+            "version": "[7.0.20, 7.0.20]"
           }
         ],
         "frameworkReferences": {
@@ -82,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

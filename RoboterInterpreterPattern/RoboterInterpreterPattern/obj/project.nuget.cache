@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CTcQORhma5IuESBxVp8xZ01ol9PAVNFgnjQfkIEGBiF+5zYfCSITTx6dBPiuGwbHg2OHO8X1WKkFDTZCPknJvg==",
+  "dgSpecHash": "8WvBgaS3Rxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raphael\\Desktop\\Schule\\5. Klasse\\POS_C#\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
+  "projectFilePath": "D:\\BitteOhneGrammatik\\RoboterInterpreterPattern\\RoboterInterpreterPattern\\RoboterInterpreterPattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Raphael\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Raphael\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Raphael\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Raphael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\karld\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\karld\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\karld\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\karld\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

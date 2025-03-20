@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoboterInterpreterPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1da5edadacfd74b53be245bab2c81b86734bfcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoboterInterpreterPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoboterInterpreterPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
